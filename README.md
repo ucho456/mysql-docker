@@ -18,7 +18,7 @@ mysql -u root -p
 ```
 
 ```
-college
+password
 ```
 
 # MySQL command
